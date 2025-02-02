@@ -1,6 +1,3 @@
-#Rujigorn Dilloway
-#Extra Credit 01
-
 #Function to initialize the seats
 def initializeSeats():
     seats = []
